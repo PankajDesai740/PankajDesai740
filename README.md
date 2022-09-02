@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Desai</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
 
-- 🌱 I’m currently learning **react,Node.js,Express**
+- 🌱 I’m currently learning **react,Node.js,Express, NextJS**
 
 - 💬 Ask me about **react**
 
